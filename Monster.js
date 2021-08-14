@@ -4,7 +4,7 @@ class Monster {
 		var options = { 
 			density: 5, 
 			frictionAir: 0,
-			isStatic: true
+			//isStatic: true
 		};
 		this.x=x;
 		this.y=y;
